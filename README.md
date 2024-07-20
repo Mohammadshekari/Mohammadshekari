@@ -7,7 +7,23 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/BadiDesign.ir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammad-Shekari-Badi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BadiDesign) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/BadiDesign.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammad-Shekari-Badi)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BadiDesign)
+[![Aparat](https://img.shields.io/badge/Aparat-%23FF0000.svg?logo=aparat&logoColor=white)](https://aparat.com/badidesign)
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+- 🔭 I’m currently working as **Freelancer**
+
+- 🌱 I’m currently learning **FastApi & Devops**
+
+- 👯 I’m looking to collaborate on **Web Application Projects as Full-Stack Developer**
+
+- 📝 I regularly write articles on [https://badidesign.ir/blog/](https://badidesign.ir/blog/)
+
+- 💬 Ask me about **Django,Vue,DataVisualization**
+
+- 📄 Know about my experiences [https://badidesign.ir](https://badidesign.ir)
+
+![Visitor count](https://komarev.com/ghpvc/?username=Mohammadshekari&color=green)
